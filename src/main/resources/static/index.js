@@ -1,2 +1,3 @@
-// alert("welcome")
-console.log("hi")
+// alert("Hello guysss");
+
+console.log("hello from JS!")
